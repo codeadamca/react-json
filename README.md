@@ -1,5 +1,6 @@
-# react-json
-A basic example of loadibg JSON data into a React website. 
+# Basic React and JSON Example
+
+A basic example of loading JSON data into a React website. 
 
 ```
 npm create vite@latest my-app -- --template react
