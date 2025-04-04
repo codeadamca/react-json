@@ -2,13 +2,17 @@
 
 A basic example of loading JSON data into a React website. 
 
+Use the following command to start a new React App:
+
 ```
 npm create vite@latest my-app -- --template react
 ```
 
-https://github.com/hex909/job-list/ 
+This is a good example of loading JSON data using a basic React project:
 
-https://github.com/codeadamca/codeadam-react-v1/
+https://github.com/hex909/job-list/
+
+This repo works well with the [laravel-blade-cms](https://github.com/codeadamca/laravel-blade-cms) repo. 
 
 ---
 
@@ -22,7 +26,7 @@ This project uses [React](https://react.dev/) and [JSON](https://www.json.org/js
 
 ## Repo Resources
 
-* [Quirky Web Directory](https://quirky.codeadam.ca)
+* [React](https://react.dev/
   
 <a href="https://codeadam.ca">
 <img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
